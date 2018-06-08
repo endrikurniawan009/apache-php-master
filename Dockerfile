@@ -1,5 +1,5 @@
 FROM ubuntu:trusty
-MAINTAINER Fernando Mayo <fernando@tutum.co>
+MAINTAINER Endri Kurniawan <endri.kurniawan009@outlook.com>
 
 # Install base packages
 RUN apt-get update && \
